@@ -1,7 +1,7 @@
 # Daitch-Mokotoff-Soundex
-Daitch–Mokotoff Soundex realization in scala
-Spark app for csv parse and calculate algorithm codes for Russian names
-Sample of work 
+<p>Daitch–Mokotoff Soundex realization in scala</p>
+<p>Spark app for csv parse and calculate algorithm codes for Russian names</p>
+<p>Sample of work</p> 
 In csv file
 <br/>
 FIO|BirthDate<br/>
@@ -13,7 +13,7 @@ Maxim Andreevich Sidorov|1974.12.23<br/>
 Anastasia Aleksandrova|1992.02.2<br/>
 
 
-Result
+Result<br/>
 <br/>
 ID|FIO|BirthDate<br/>
 TJABB739700760000|Yana A. Petrova|1990.01.01<br/>
