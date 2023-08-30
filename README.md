@@ -1,7 +1,7 @@
 # Daitch-Mokotoff Soundex (D-M Soundex) implementation in Scala for Spark
 
 Open source project The **Daitch-Mokotoff Soundex in Scala**  designed to improve the accuracy of phonetic matching for names that come from a variety of languages, especially those with Slavic origins. It produces codes that are more distinct for different names that might sound similar but have different linguistic origins. The algorithm takes into account both the beginning and ending of a name to generate its code.
-Project allows run implementation using **Spark**. So it's most efficient for process huge amount of data.
+Project allows run implementation using **Spark**. So it's most efficient for processing huge amounts of data.
 
 ## Algorithm
 
